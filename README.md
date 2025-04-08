@@ -19,7 +19,7 @@ The car receives images from a front-facing camera in the simulator and uses a t
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/your-username/self-driving-car-udacity.git
+git clone [https://github.com/GeneralSubhra/Self-driving-car]
 cd self-driving-car-udacity
 ```
 
