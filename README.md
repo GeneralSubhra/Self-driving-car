@@ -68,10 +68,8 @@ python drive.py model.h5
 .
 ├── data/                   # Collected driving data (images + driving_log.csv)
 ├── model/                  # Saved model(s)
-├── train.py                # Model training script
-├── drive.py                # Script to drive car in simulator using trained model
-├── model.py                # CNN architecture (TensorFlow/Keras)
-├── utils.py                # Image preprocessing and helpers
+├── script.py                # Script to drive car in simulator using trained model
+├── app.py                # CNN architecture (TensorFlow/Keras)
 ├── requirements.txt        # List of dependencies
 └── README.md               # This file
 ```
