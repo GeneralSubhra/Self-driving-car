@@ -74,9 +74,6 @@ python drive.py model.h5
 └── README.md               # This file
 ```
 
-## 📷 Example Results
-
-*(Optional: Add screenshots or a video/GIF of the car successfully driving in the simulator)*
 
 ## ✅ To-Do / Future Work
 
